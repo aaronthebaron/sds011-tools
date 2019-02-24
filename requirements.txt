@@ -1,0 +1,1 @@
+-e git+ssh://git@github.com:aaronthebaron/py-sds011.git
