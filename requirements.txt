@@ -1,1 +1,2 @@
--e git+ssh://git@github.com:aaronthebaron/py-sds011.git
+git+ssh://git@github.com/aaronthebaron/py-sds011.git#egg=sds011
+python-aqi==0.6.1
